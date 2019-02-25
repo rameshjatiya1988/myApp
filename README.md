@@ -39,3 +39,6 @@ coding challenge for JH - Login with Facebook
 #### Password : 123456
 
 ![alt text](https://github.com/rameshjatiya1988/myApp/blob/master/Screenshot/Step%205%20login%20with%20regular%20registered%20account.png)
+
+### Step 6 Normal user login
+![alt text](https://github.com/rameshjatiya1988/myApp/blob/master/Screenshot/Step%206%20Normal%20login.PNG)
