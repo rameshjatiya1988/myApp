@@ -34,4 +34,8 @@ coding challenge for JH - Login with Facebook
 ![alt text](https://github.com/rameshjatiya1988/myApp/blob/master/Screenshot/Step%204%20-%20Logout.png)
 
 ### Step 5 login with regular registered account
+
+#### Username : ramesh@abc.com
+#### Password : 123456
+
 ![alt text](https://github.com/rameshjatiya1988/myApp/blob/master/Screenshot/Step%205%20login%20with%20regular%20registered%20account.png)
