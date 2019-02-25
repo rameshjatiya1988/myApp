@@ -1,7 +1,7 @@
 # myApp
 coding challenge for JH - Login with Facebook
 
-## [Web Application URL] (https://rameshjatiya.com/myApp) 
+## [Web Application Link](https://rameshjatiya.com/myApp) 
 
 ## 1) [Frontend Angular JS](https://github.com/rameshjatiya1988/myApp/tree/master/Login)
 ## 2) [Backend Node JS](https://github.com/rameshjatiya1988/myApp/tree/master/nodeProject) 
